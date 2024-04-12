@@ -1,0 +1,15 @@
+
+‹
+java:S1192F"HDefine a constant instead of duplicating this literal " failed" 4 times.(¦åÛÖ8‹àˆ–í1J$8bd6f474-0205-4963-8691-690e7a435827
+
+java:S1192H"HDefine a constant instead of duplicating this literal "Check: " 4 times.(ÑÆ’àÿÿÿÿÿ8Œàˆ–í1J$ef772628-6711-4807-a777-df3313a85963
+‰
+java:S1192F"FDefine a constant instead of duplicating this literal "test " 5 times.(¦åÛÖ8Œàˆ–í1J$dbdc2d6c-456e-4f53-bb8a-7dd7984e36e4
+ƒ	java:S125)"<This block of commented-out lines of code should be removed.(´Æª˜øÿÿÿÿ8¯áˆ–í1J$c9da2e9e-7c42-4baf-b705-a5991925b7a6
+i
+java:S1871K"LThis branch's code block is the same as the block for the branch on line 69.(ÍÉˆò8¿¿‰–í1
+m	java:S106F"+Replace this use of System.out by a logger.(¦åÛÖ8´áˆ–í1J$8ce8e892-3ed6-4b44-9f6e-84eb2f9b9401
+r	java:S106H"+Replace this use of System.out by a logger.(ÑÆ’àÿÿÿÿÿ8´áˆ–í1J$84a3a671-d48b-4db1-a660-6b76adb12f79
+m	java:S106L"+Replace this use of System.out by a logger.(¦åÛÖ8µáˆ–í1J$011de601-9092-4346-afcb-16061ed37a44
+r	java:S106N"+Replace this use of System.out by a logger.(ÑÆ’àÿÿÿÿÿ8¶áˆ–í1J$9750580a-1920-44a9-871b-760167cf9fa0
+m	java:S106T"+Replace this use of System.out by a logger.(“¶—à8¶áˆ–í1J$39bca710-1a31-4fa4-838e-e8a5fc2d9f09

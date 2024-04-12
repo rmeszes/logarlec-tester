@@ -1,0 +1,5 @@
+test 1 success
+test 2 failed
+Check: !proto starting
+
+Tests success/Tests ran: 1/2
