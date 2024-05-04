@@ -13,7 +13,10 @@ public class Main {
 
     public static void main(String[] args) throws IOException, InterruptedException {
 
-        new File("results.txt").delete(); //delete previous results
+        File toDelete = new File("results.txt"); //delete previous results
+        if(toDelete.exists()){
+            toDelete.delete();
+        }
 
         if(args.length > 0) {
             runTest(args[0]);
@@ -30,12 +33,16 @@ public class Main {
         try(FileWriter resultFile = new FileWriter("results.txt",true)) {
             resultFile.append("\nTests success/Tests ran: ").append(String.valueOf(testsSuccessful)).append(String.valueOf('/')).append(String.valueOf(testsRun));
         }
+
+        System.out.println("Tests success/Tests ran: " + testsSuccessful + '/' + testsRun);
+
+        if(testsSuccessful != testsRun) System.exit(1);
     }
 
     private static void runTest(String testNum) throws IOException, InterruptedException {
         testsRun++;
 
-        String command = "java -jar logarlec.jar";
+        String command = "java -jar target/logarlec-proto-1.0.jar";
 
         ProcessBuilder processBuilder = new ProcessBuilder();
 
