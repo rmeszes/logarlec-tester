@@ -42,7 +42,7 @@ public class Main {
     private static void runTest(String testNum) throws IOException, InterruptedException {
         testsRun++;
 
-        String command = "java -jar target/logarlec-proto-1.0.jar";
+        String command = "java -jar target/logarlec-proto-1.0.jar test";
 
         ProcessBuilder processBuilder = new ProcessBuilder();
 

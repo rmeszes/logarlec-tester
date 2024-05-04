@@ -1,21 +1,21 @@
 
 ‹
-java:S1192\"HDefine a constant instead of duplicating this literal " failed" 4 times.(¦åÛÖ8Æ¤Üšô1J$6b255e6c-b903-47f9-9b97-77bafba93f67
+java:S1192\"HDefine a constant instead of duplicating this literal " failed" 4 times.(¦åÛÖ8Æ¤Üšô1J$e9bba9c0-c978-4d6d-8e75-ba1767e25578
 
-java:S1192^"HDefine a constant instead of duplicating this literal "Check: " 4 times.(ÑÆ’àÿÿÿÿÿ8Ç¤Üšô1J$8dbebdf6-3df7-4378-8a22-49a629b0fa89
+java:S1192^"HDefine a constant instead of duplicating this literal "Check: " 4 times.(ÑÆ’àÿÿÿÿÿ8Ç¤Üšô1J$f9c5db95-ed79-4d98-a54a-a4ee6bb2491f
 ‰
-java:S1192\"FDefine a constant instead of duplicating this literal "test " 6 times.(¦åÛÖ8Ç¤Üšô1J$23c87e89-6c80-4754-9124-00dd3cbaf786
+java:S1192\"FDefine a constant instead of duplicating this literal "test " 6 times.(¦åÛÖ8Ç¤Üšô1J$1ecf36c4-b19e-416e-b56b-a1d48d876c09
 ”
-java:S1192"LDefine a constant instead of duplicating this literal "results.txt" 3 times.(©ŸÎ¯ıÿÿÿÿ8Ç¤Üšô1J$1829f451-fb18-4f86-881d-088f79d09dac
-}	java:S899";Do something with the "boolean" value returned by "delete".(ğ¦›Ë8Ö¦Üšô1J$1ed0db3b-9515-4641-ae56-97b8e4f01b24
+java:S1192"LDefine a constant instead of duplicating this literal "results.txt" 3 times.(©ŸÎ¯ıÿÿÿÿ8Ç¤Üšô1J$3db53836-cf55-451b-8001-04797f52c461
+}	java:S899";Do something with the "boolean" value returned by "delete".(ğ¦›Ë8Ö¦Üšô1J$3f55de8e-91bf-47dc-be03-e64abe6a0917
 ‘
-java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ğ¦›Ë8×¦Üšô1J$f3d846d6-7928-4e17-9fa4-c573f36f2f76
-r	java:S106%"+Replace this use of System.out by a logger.(öØ¥±øÿÿÿÿ8Û¦Üšô1J$4b480cfe-b2a7-47c6-83af-e9b3e16d3143
-ƒ	java:S125<"<This block of commented-out lines of code should be removed.(´Æª˜øÿÿÿÿ8Ş¦Üšô1J$fe62e1de-9de1-4e00-bba2-d513d4e29598
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ğ¦›Ë8×¦Üšô1J$c878f540-a0b1-4b18-9a2e-5288a13901d6
+r	java:S106%"+Replace this use of System.out by a logger.(öØ¥±øÿÿÿÿ8Û¦Üšô1J$b7c662cc-73d2-447f-ad5e-9e5f00470dd9
+ƒ	java:S125<"<This block of commented-out lines of code should be removed.(´Æª˜øÿÿÿÿ8Ş¦Üšô1J$19e2fe1e-2859-4972-b5dd-8317fda951ef
 
-java:S1871a"LThis branch's code block is the same as the block for the branch on line 91.(ÍÉˆò8ä¦Üšô1J$bd473101-3fa0-4936-b15f-9415fe1abc0d
-m	java:S106\"+Replace this use of System.out by a logger.(¦åÛÖ8å¦Üšô1J$3f370569-6711-4622-beb0-0894911043b8
-r	java:S106^"+Replace this use of System.out by a logger.(ÑÆ’àÿÿÿÿÿ8æ¦Üšô1J$78efa82a-ef36-40a3-b893-eb4a28b407b4
-m	java:S106b"+Replace this use of System.out by a logger.(¦åÛÖ8ç¦Üšô1J$99d6bfbe-a8b8-45b9-a401-0d2c47e9f6d2
-r	java:S106d"+Replace this use of System.out by a logger.(ÑÆ’àÿÿÿÿÿ8ç¦Üšô1J$cc33b913-54d6-4e39-99a9-58a7fdc2ed11
-m	java:S106k"+Replace this use of System.out by a logger.(“¶—à8è¦Üšô1J$3bfedc46-2d9c-4b19-88c3-6fab687681d8
+java:S1871a"LThis branch's code block is the same as the block for the branch on line 91.(ÍÉˆò8ä¦Üšô1J$6ac6c01c-7685-436f-bcdf-f0cfff80db25
+m	java:S106\"+Replace this use of System.out by a logger.(¦åÛÖ8å¦Üšô1J$06bcc5e8-29dd-4f01-9d8f-fda508040993
+r	java:S106^"+Replace this use of System.out by a logger.(ÑÆ’àÿÿÿÿÿ8æ¦Üšô1J$502a7bb3-d7e4-4033-9dc4-df172a9c2cf9
+m	java:S106b"+Replace this use of System.out by a logger.(¦åÛÖ8ç¦Üšô1J$ce32664b-2bca-4a1c-b717-e8e56b26347f
+r	java:S106d"+Replace this use of System.out by a logger.(ÑÆ’àÿÿÿÿÿ8ç¦Üšô1J$39d03f6a-90f7-451f-aa31-c063c44e8cc2
+m	java:S106k"+Replace this use of System.out by a logger.(“¶—à8è¦Üšô1J$cf6517d8-7181-41d6-80ee-58b68e433878
